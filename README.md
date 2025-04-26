@@ -42,7 +42,6 @@ Akhirnya dilakukan **Weighted Ensemble** dan **Threshold Optimization** untuk me
 ## 🔹 Highlights
 - Threshold tuning meningkatkan Precision & Recall seimbang.
 - Bobot lebih besar pada XGB memberikan hasil lebih stabil.
-- Proses ensemble memperbaiki skor submission dari 0.50 ke arah target 0.53.
 
 ---
 
