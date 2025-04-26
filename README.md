@@ -33,25 +33,6 @@ Akhirnya dilakukan **Weighted Ensemble** dan **Threshold Optimization** untuk me
    - Optimasi Threshold
    - Buat submission file untuk Kaggle
 
-## 📦 Directory Structure
-```
-./dataset/
-    train.csv
-    test.csv
-    sample_submission.csv
-
-./myResults/
-    preds_rf.csv
-    preds_lgbm.csv
-    preds_xgb.csv
-    final_submit_weighted_w202060_t270.csv
-    final_submit_weighted_w202060_t275.csv
-
-main.ipynb
-README.md
-requirements.txt
-```
-
 ## 🔟 Final Output
 - Submission file utama:
   - `final_submit_weighted_w202060_t270.csv`
